@@ -58,8 +58,7 @@ These issues lead to inefficiencies, customer dissatisfaction, and potential pla
 
 ## 🧠 Smart Enhancements
 
-- Real-time notifications for task updates and stock status  
-- Clean, user-friendly interfaces for all roles  
+- Real-time notifications for task updates and stock status
 - Planned feature: AI-based treatment recommendation system using disease name as input
 
 ---
