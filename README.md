@@ -21,8 +21,8 @@ The system was built using **.NET Core**, **Flutter**, **Entity Framework**, and
 
 - 🔸 [Project Overview & Features](PlanTopia.md)  
 - 🔸 [My Role & Contributions](Contributions.md)  
-- 🔸 [System Architecture & Diagrams](Architecture.md)  
-- 🔸 [Model Deployment & Integration](Model.md)  
+<!-- - 🔸 [System Architecture & Diagrams](Architecture.md)  
+- 🔸 [Model Deployment & Integration](Model.md) -->
 
 ---
 
