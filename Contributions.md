@@ -19,7 +19,7 @@ This document outlines my **technical** and **non-technical** contributions to t
     - [Model Fine-Tuning & Hosting](#model-fine-tuning--hosting)
     - [Backend Integration](#backend-integration)
   - [Project Structure & Design Patterns](#project-structure--design-patterns)
-- [Non-Technical Contributions (Leading Beyond Code)](#non-technical-contributions-leading-beyond-code)
+- [Non-Technical Contributions](#non-technical-contributions)
 
 ---
 
@@ -189,7 +189,7 @@ DAL
 
 ---
 
-##  Non-Technical Contributions (Leading Beyond Code)
+##  Non-Technical Contributions
 
 ### 1. From Real-World Needs to a Viable Project Idea
 
