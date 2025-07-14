@@ -6,22 +6,23 @@ This document outlines my **technical** and **non-technical** contributions to t
 
 ## 📚 Table of Contents
 
-- [ Technical Contributions](#-technical-contributions)
-  - [ Deployment & Hosting](#-deployment--hosting)
-  - [ Backend System (ASP.NET Core)](#-backend-system-aspnet-core)
-    - [ Authentication & Authorization](#-authentication--authorization)
-    - [ User Operations](#-user-operations)
-    - [ Favorites Feature](#-favorites-feature)
-    - [ Ordering System](#-ordering-system)
-    - [ AWS Integration](#-aws-integration)
-  - [ Machine Learning Integration](#-machine-learning-integration)
-    - [ Dataset & Model Selection](#-dataset--model-selection)
-    - [ Model Fine-Tuning & Hosting](#-model-fine-tuning--hosting)
-    - [ Backend Integration](#-backend-integration)
-  - [ Project Structure & Design Patterns](#-project-structure--design-patterns)
-- [ Non-Technical Contributions](#-non-technical-contributions)
+- [Technical Contributions](#technical-contributions)
+  - [Deployment & Hosting](#deployment--hosting)
+  - [Backend System (ASP.NET Core)](#backend-system-aspnet-core)
+    - [Authentication & Authorization](#authentication--authorization)
+    - [User Operations](#user-operations)
+    - [Favorites Feature](#favorites-feature)
+    - [Ordering System](#ordering-system)
+    - [AWS Integration](#aws-integration)
+  - [Machine Learning Integration](#machine-learning-integration)
+    - [Dataset & Model Selection](#dataset--model-selection)
+    - [Model Fine-Tuning & Hosting](#model-fine-tuning--hosting)
+    - [Backend Integration](#backend-integration)
+  - [Project Structure & Design Patterns](#project-structure--design-patterns)
+- [Non-Technical Contributions (Leading Beyond Code)](#non-technical-contributions-leading-beyond-code)
 
 ---
+
 
 ##  Technical Contributions
 
@@ -65,7 +66,7 @@ This document outlines my **technical** and **non-technical** contributions to t
   - Automatically move items from cart to orders and clear the cart after checkout.
   - Handled cancellation logic (only allowed for pending orders).
 
-#### ☁️ AWS Integration
+####  AWS Integration
 
 - Integrated **AWS S3** for uploading and retrieving **user profile and plant images**.
 - Handled all related code logic to ensure robust error handling and path consistency.
