@@ -34,6 +34,13 @@ The system was built using **.NET Core**, **Flutter**, **Entity Framework**, and
 
 ---
 
+### 🌐 Official Project Website
+
+Explore our service showcase website for PlanTopia:  
+🔗 [plantobia.netlify.app](https://plantobia.netlify.app)
+
+> This website is built to **advertise our service** and present our solution.
+
 ## 🙋‍♂️ About Me
 
 As the core developer of this project, I handled both the **technical implementation** (backend, API design, model deployment) and **non-technical responsibilities** (documentation, team coordination, presentation preparation). More on this is available in the [Contributions.md](Contributions.md) file.
